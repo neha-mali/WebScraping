@@ -14,5 +14,5 @@ gainers and top losers are listed at any instance in time.The program takes the 
 also lists the names of the companies in the order and categories listed in the website: https://money.cnn.com/data/hotstocks/ and ask the user to choose a company to get 
 the data on. Once the user chooses the company of interest, the program displays its corresponding data (Open, Prev Close, Volume and Market Cap).
 
-Output is printed to the stocks.csv
+Output is printed to the stocks.csv file.
 
